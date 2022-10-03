@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-harsh97-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh97/)](https://www.linkedin.com/in/harsh97/)
 [![Website Badge](https://img.shields.io/badge/-Résumé-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=Résumé-Harsh)](https://drive.google.com/file/d/1NlRkyv3rbSsmkBm4psWYDPQMtxBTt4KG/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-harsh.agar97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harsh.agar97@gmail.com)](mailto:harsh.agar97@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@harsh_agar_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/harsh_agar_/)](https://instagram.com/harsh_agar_)
+[![Instagram Badge](https://img.shields.io/badge/-harsh__agar__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/harsh_agar_/)](https://instagram.com/harsh_agar_)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+an+AI+Engineering+Student;Tech+and+Travel+Enthusiast)](https://git.io/typing-svg)
 
@@ -31,5 +31,5 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 * 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
 
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
