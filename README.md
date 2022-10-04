@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Harsh Agarwal! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 [![Linkedin Badge](https://img.shields.io/badge/-harsh97-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh97/)](https://www.linkedin.com/in/harsh97/)
-[![Website Badge](https://img.shields.io/badge/-Résumé-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=Résumé-Harsh)](https://drive.google.com/file/d/1NlRkyv3rbSsmkBm4psWYDPQMtxBTt4KG/view?usp=sharing)
+[![Website Badge](https://img.shields.io/badge/-Résumé-03925e?style=flat&logo=Google-Chrome&logoColor=white&link=Résumé-Harsh)](https://drive.google.com/file/d/1NlRkyv3rbSsmkBm4psWYDPQMtxBTt4KG/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-harsh.agar97-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harsh.agar97@gmail.com)](mailto:harsh.agar97@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-harsh__agar__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/harsh_agar_/)](https://instagram.com/harsh_agar_)
 
