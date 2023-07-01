@@ -29,7 +29,8 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 * 💼 Earlier, I worked for two years with Bosch India, developing AI algorithms for next generation Camera and RADAR sensors.
 * 🏠 Currently I live in Saarbrücken, Germany. 
 * 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
-
+<!--
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
+-->
